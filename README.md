@@ -1,10 +1,10 @@
-# Menu Visualizer
+# MenuAI
 
 A local-only prototype that accepts a photo of a restaurant menu, extracts item names using OCR, and displays a picture for each item next to its name.
 
 ## Overview
 
-Menu Visualizer is a full-stack application designed to:
+Menu AI is a full-stack application designed to:
 
 -   Upload and process restaurant menu photos
 -   Extract menu item names using OCR (Tesseract)
@@ -15,7 +15,7 @@ Menu Visualizer is a full-stack application designed to:
 ## Project Structure
 
 ```
-menuvisualizer/
+menuai/
 ├── backend/          # FastAPI backend application
 ├── frontend/         # Frontend application (Svelte)
 ├── .gitignore        # Git ignore file for sensitive files and build artifacts
@@ -35,7 +35,7 @@ menuvisualizer/
 1. **Clone or navigate to the project directory**
 
 ```powershell
-cd menuvisualizer
+cd menuai
 ```
 
 2. **Create and activate virtual environment**
