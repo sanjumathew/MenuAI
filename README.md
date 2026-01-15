@@ -129,7 +129,7 @@ Please ensure:
 -   Update relevant README files when making changes to backend or frontend
 
 ## License
- [MIT License](LICENSE.md)
+ [MIT License](LICENSE)
 
 ## Support
 
