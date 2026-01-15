@@ -114,6 +114,12 @@ See [backend/README.md](backend/README.md) for more details on Tesseract install
 -   The image generation in `backend/app/generator.py` is currently stubbed; integrate with your preferred image generation API or local model
 -   Sensitive files and environment variables are excluded from git (see `.gitignore`)
 
+## Screenshots
+<img width="1584" height="985" alt="image" src="https://github.com/user-attachments/assets/547a43be-d7ed-45bb-8d99-397f7ace5610" />
+<img width="1593" height="988" alt="image" src="https://github.com/user-attachments/assets/1acd8f56-2911-4f78-86ad-fbce78cf1bc9" />
+<img width="1590" height="987" alt="image" src="https://github.com/user-attachments/assets/2a93e2a5-25f2-4378-aafa-7b8db739c7bc" />
+<img width="1588" height="992" alt="image" src="https://github.com/user-attachments/assets/0872b2a0-67ba-40a1-a458-15681fd036cc" />
+
 ## Contributing
 
 Please ensure:
