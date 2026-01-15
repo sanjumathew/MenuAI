@@ -149,7 +149,7 @@
     </div>
   {/if}
   <div class="d-flex align-items-center mb-3">
-    <h1 class="me-3 mb-0 app-title text-white">Menu Visualizer</h1>
+    <h1 class="me-3 mb-0 app-title text-white">Menu AI</h1>
     <div class="ms-auto d-flex align-items-center gap-2">
       <input class="form-check-input" type="checkbox" bind:checked={useLLM} id="useLLM" />
       <label class="form-check-label text-white" for="useLLM">Use LLM for cleaning</label>

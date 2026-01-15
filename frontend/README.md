@@ -1,4 +1,4 @@
-Frontend (Svelte + Vite) for Menu Visualizer
+Frontend (Svelte + Vite) for Menu AI
 
 Quick start:
 

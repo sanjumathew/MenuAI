@@ -21,7 +21,7 @@ IMAGE_CACHE.mkdir(parents=True, exist_ok=True)
 # Load .env for local development (explicitly load `backend/.env` so HF_TOKEN is available)
 load_dotenv(dotenv_path=BASE_DIR / '.env')
 
-app = FastAPI(title="Menu Visualizer Backend")
+app = FastAPI(title="Menu AI Backend")
 
 # Simple in-memory stores (for prototype)
 JOBS = {}

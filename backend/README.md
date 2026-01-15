@@ -1,4 +1,4 @@
-Menu Visualizer — Backend (FastAPI)
+MenuAI — Backend (FastAPI)
 
 Quick start (dev):
 
