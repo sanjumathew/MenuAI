@@ -91,7 +91,7 @@ The frontend will be available at `http://localhost:5173`
 -   **Item Parsing**: Intelligent menu item name extraction and normalization
 -   **Image Generation**: Generate or retrieve images for menu items
 -   **Interactive UI**: View results, edit items, and regenerate images
--   **Local Processing**: Runs entirely locally (with optional external API integration)
+-   **Local Processing**: Can run locally to process menu text using ocr. Image generation requires external API provider.
 
 ## Important Configuration
 
