@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pytesseract
+opencv-python
+pillow
+httpx
+aiofiles
+huggingface-hub
+python-dotenv
