@@ -115,6 +115,8 @@ See [backend/README.md](backend/README.md) for more details on Tesseract install
 -   Sensitive files and environment variables are excluded from git (see `.gitignore`)
 
 ## Screenshots
+Sample Menu: ![menu2 1](https://github.com/user-attachments/assets/9dc473cc-f684-414c-b052-6142de4182f7)
+
 <img width="1584" height="985" alt="image" src="https://github.com/user-attachments/assets/547a43be-d7ed-45bb-8d99-397f7ace5610" />
 <img width="1593" height="988" alt="image" src="https://github.com/user-attachments/assets/1acd8f56-2911-4f78-86ad-fbce78cf1bc9" />
 <img width="1590" height="987" alt="image" src="https://github.com/user-attachments/assets/2a93e2a5-25f2-4378-aafa-7b8db739c7bc" />
